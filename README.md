@@ -1,2 +1,3 @@
 # hello-world
-jus to save data and codes
+just to save data and codes
+select*from hr.employees where salary>10000
